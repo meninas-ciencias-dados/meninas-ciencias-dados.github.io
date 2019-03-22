@@ -2,12 +2,12 @@
 
 # Base URL
 
-url: "https://meninas-nas-exatas.github.io/"   
+url: "https://meninas-ciencias-dados.github.io/"   
 baseurl: ""                          
 
 # General
 
-title: Meninas nas Exatas                           # Name of website
+title: Meninas na Ciência de Dados                           # Name of website
 description: Bahia                          # Short description of your site
 encoding: UTF-8                                          # Encoding
 
@@ -36,9 +36,9 @@ avatar: "/img/IMG_4148.PNG"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Meninas nas Exatas
-  email: "meninas.nas.exatas@gmail.com"
+  email: "meninas.cienciadados@gmail.com"
   facebook: adelmo.filho.90857  # eg. daattali
-  github: meninas-nas-exatas    # eg. daattali
+  github: meninas-ciencias-dados    # eg. daattali
   twitter: RLadiesSalvador   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
